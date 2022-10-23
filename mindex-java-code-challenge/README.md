@@ -11,6 +11,7 @@ read - /reportStructure/{employeeId}
 ### Compensation
 
 create - /compensation
+
 read - /compensation/{employeeId}
 
 # Coding Challenge
